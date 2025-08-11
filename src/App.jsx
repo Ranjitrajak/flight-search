@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import FlightSearchUI from './components/FlightSearchUi'
+import FlightSearchUI from './components/FlightSearchUI'
 
 function App() {
 
